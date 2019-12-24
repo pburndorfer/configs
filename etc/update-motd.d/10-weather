@@ -1,0 +1,4 @@
+#!/bin/sh
+echo
+echo "CURRENT WEATHER AT LINZ"
+ansiweather -l linz -u metric
